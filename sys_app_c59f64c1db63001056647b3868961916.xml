@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo>199facc1db63001056647b38689619bc</logo>
+        <menu/>
+        <name>Needit</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_458782_needit</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Day1Training</short_description>
+        <source>x_458782_needit</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-12 16:40:00</sys_created_on>
+        <sys_id>c59f64c1db63001056647b3868961916</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-12 16:40:02</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>Optum.jpg</file_name>
+        <hash>d07b446ed9240a4f73513dd6e6234b688c8782e2e0dc55a1abb0176efca80cb2</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2213</size_bytes>
+        <size_compressed>2080</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-12 16:40:02</sys_created_on>
+        <sys_id>199facc1db63001056647b38689619bc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-03-12 16:40:03</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>c59f64c1db63001056647b3868961916</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="Optum.jpg" sys_id="199facc1db63001056647b38689619bc">199facc1db63001056647b38689619bc</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-12 16:40:02</sys_created_on>
+        <sys_id>599facc1db63001056647b38689619bc</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2760</length>
+        <position>1</position>
+        <sys_attachment display_value="Optum.jpg" sys_id="199facc1db63001056647b38689619bc">199facc1db63001056647b38689619bc</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-12 16:40:02</sys_created_on>
+        <sys_id>d99facc1db63001056647b38689619bc</sys_id>
+    </sys_attachment_doc>
+</record_update>
